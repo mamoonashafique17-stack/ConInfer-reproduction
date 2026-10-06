@@ -47,4 +47,8 @@ All modifications to the original repository are done by the `sed` commands insi
 
 - Results were identical when batch 8 and batch 50 were repeated (deterministic).
 - SegEarth-OV and MaskCLIP* baselines in the report are taken from the paper, not re-run.
-- Model weights and datasets are not included; see the links above.
+- Model weights and datasets are not included in this repository. They are downloaded automatically
+  by the notebook from:
+  - LoveDA validation set: https://zenodo.org/record/5706578/files/Val.zip
+  - DINOv3 ViT-L/16 SAT-493M weights: https://huggingface.co/MVRL/dinov3_vitl16_sat
+  - DINOv3 code: https://github.com/facebookresearch/dinov3
