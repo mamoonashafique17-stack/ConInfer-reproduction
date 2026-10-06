@@ -4,7 +4,7 @@ Author: Mamoona Shafique
 
 This repository contains my reproduction of **ConInfer: Context-Aware Inference for Training-Free
 Open-Vocabulary Remote Sensing Segmentation** (arXiv:2603.29271) on the LoveDA validation set,
-run on a free Google Colab T4 GPU.
+run on a free Google Colab T4 GPU. 
 
 - Paper: https://arxiv.org/abs/2603.29271
 - Original code (not copied here): https://github.com/Dog-Yang/ConInfer
